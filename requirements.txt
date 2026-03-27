@@ -11,3 +11,4 @@ pypdf
 python-docx
 requests
 groq
+python-dotenv
